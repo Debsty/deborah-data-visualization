@@ -5,4 +5,5 @@ This project analyzes employee data to uncover trends like attrition, gender bal
 
 📌 Tools used: Power BI  
 📊 Skills applied: data cleaning, dashboard design, storytelling  
-📷 Screenshot: _[Add later]_
+📷 Screenshot: _[[_](https://drive.google.com/file/d/1CARKMxeEqhv8zVebQSVK382zJSSTQiBz/view?usp=sharing)
+k
